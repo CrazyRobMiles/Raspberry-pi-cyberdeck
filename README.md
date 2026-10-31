@@ -11,6 +11,8 @@ You can find all the parts used here in this [Amazon List](https://www.amazon.co
 
 ## Tiny Orange Tablet - Raspberry Pi Zero
 
+![Tiny Orange tablet closeup](/images/tiny%20tablet.jpg)
+
 Perhaps the smallest tablet you can make. Needs an external power supply. The screen is capacitive and very bright. 
 
 * **Screen** [2.8 inch LCD panel from Waveshare](https://www.waveshare.com/2.8inch-DPI-LCD.htm). 
@@ -22,6 +24,8 @@ Perhaps the smallest tablet you can make. Needs an external power supply. The sc
 Print the files and use M2 Phillips Pan Head Screws with 6mm Round Heads to screw the Raspberry Pi Zero to the back of the case. Then push the display onto the Pi Zero and fit the top. 
 
 ## Little Yellow - Raspberry Pi Zero 
+
+![Little Yellow cyberdeck](/images/Yellow%20deck.jpg)
 
 A tiny cyberdeck with a folding action and a credit card sized keyboard. Powered by an internal battery pack. You will need to make up a cable to power the keyboard. 
 
@@ -35,14 +39,15 @@ A tiny cyberdeck with a folding action and a credit card sized keyboard. Powered
 
 Print the files, making sure to print the top of the base face down with support for the keyboard recess. Use long M3 bolts into the each end of the hinge. Use M2 Phillips Pan Head Screws with 6mm Round Heads to screw the Raspberry Pi Zero to the back of the screen. Then push the display onto the Pi Zero and fit the top to the display. Put the battery into the base and run a cable between the battery output and the power input of the Pi. Then take a cable out of the usb socket on the Pi and use this output to power the keyboard. The keyboard is configured as Bluetooth and connected to the Pi. 
 
-
 ## Bourbon Classic Camera - Raspberry Pi 4
+
+![Bourbon classic camera](/images/Bourbon%20Classic%20Camera.jpg)
 
 A reversed flip-up display which can be used as a large viewfinder for the built-in camera. Powered by a UPS module containing 18650 batteries (be sure to buy this as well as the module)
 
 * **Screen**  [ELECROW 7" 1024x600 Touchscreen Monitor ](https://www.elecrow.com/7inch-ips-hd-touch-screen-d-1024-600-hd-monitor-compatible-with-raspberry-pi-bb-black-etc.html).
 
-* **keyboard** You can use any external keyboard, plug the adapter into the Pi or connect via Bluetooth. 
+* **keyboard** You can use any external keyboard, plug the adapter into the Pi or connect via Bluetooth. There are some 
 
 * **Power** i15W 3A Battery Boost Charging 5v UPS,Tiny 5v UPS Module High Power UPS 18650
 
@@ -51,6 +56,8 @@ A reversed flip-up display which can be used as a large viewfinder for the built
 The outward facing hinges make these models harder to print. I printed them flat with internal support for the top of the cavity. Alternatively put them on one side and print with tree support. Use curly cables (in the Amazon list) to connect the screen HDMI and USB. Use very thick wire for the power cables onto the PI 40 pin connector. There is room in the base for different battery types. Hinges are fitted as for the Little Yellow cyberdeck. 
 
 ## Blue Clamshell - Raspbery Pi 4
+
+![Blue clamshell cyberdeck](/images/blue%20clamshell.jpg)
 
 A traditional clamshell with an internal battery pack. This version has fancy camera graphics (sort of a camshell - ho ho) on the top and the bottom. 
 
@@ -61,6 +68,8 @@ A traditional clamshell with an internal battery pack. This version has fancy ca
 * **Power** i15W 3A Battery Boost Charging 5v UPS,Tiny 5v UPS Module High Power UPS 18650
 
 * **Print files** [here](/3d%20print/Bourbon%20Classic%20Camera/).
+
+![Clamshell case design](/images/Blue%20Clamshell%20case.jpg)
 
 Hinges will print without support. Load the image files along with their corresponding parts and then import them into the slicer as a single object. Then set filament colours to print the logo. You can use the flat HDMI and USB cables to connect the Pi and the display. 
 
