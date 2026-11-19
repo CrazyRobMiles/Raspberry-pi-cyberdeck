@@ -47,7 +47,7 @@ A reversed flip-up display which can be used as a large viewfinder for the built
 
 * **Screen**  [ELECROW 7" 1024x600 Touchscreen Monitor ](https://www.elecrow.com/7inch-ips-hd-touch-screen-d-1024-600-hd-monitor-compatible-with-raspberry-pi-bb-black-etc.html).
 
-* **keyboard** You can use any external keyboard, plug the adapter into the Pi or connect via Bluetooth. There are some 
+* **keyboard** You can use any external keyboard, plug the adapter into the Pi or connect via Bluetooth. There are some nice ones in the Amazon list. 
 
 * **Power** i15W 3A Battery Boost Charging 5v UPS,Tiny 5v UPS Module High Power UPS 18650
 
